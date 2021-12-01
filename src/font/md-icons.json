@@ -67,8 +67,7 @@
             "television",
             "trash-can-outline",
             "tumble-dryer",
-            "washing-machine",
-            "water-pump"
+            "washing-machine"
         ],
         "energy": [
             "battery-high",
@@ -83,7 +82,6 @@
         ],
         "light": [
             "ceiling-light",
-            "coach-lamp",
             "desk-lamp",
             "floor-lamp",
             "lamp",
@@ -92,7 +90,9 @@
             "outdoor-lamp",
             "string-lights",
             "vanity-light",
-            "wall-sconce"
+            "lightbulb-multiple-off-outline",
+            "campfire",
+            "wall-sconce-round"
         ],
         "navigation": [
             "check",
@@ -1184,7 +1184,7 @@
         "camera-timer": "0xF0109=>0xE109",
         "camera-wireless": "0xF0DB6=>0xEDB6",
         "camera-wireless-outline": "0xF0DB7=>0xEDB7",
-        "campfire": "0xF0EDD=>0xEEDD",
+        "campfire": "0xF0EDD=>0xF020",
         "cancel": "0xF073A=>0xE73A",
         "candle": "0xF05E2=>0xE5E2",
         "candycane": "0xF010A=>0xE10A",
@@ -1615,7 +1615,7 @@
         "cloud-upload": "0xF0167=>0xE167",
         "cloud-upload-outline": "0xF0B7E=>0xEB7E",
         "clover": "0xF0816=>0xE816",
-        "coach-lamp": "0xF1020=>0xF020",
+        "coach-lamp": "0xF1020=>0xEEDD",
         "coat-rack": "0xF109E=>0xF09E",
         "code-array": "0xF0168=>0xE168",
         "code-braces": "0xF0169=>0xE169",
@@ -3359,7 +3359,7 @@
         "lightbulb-group-outline": "0xF1254=>0xF254",
         "lightbulb-multiple": "0xF1255=>0xF255",
         "lightbulb-multiple-off": "0xF12CF=>0xF2CF",
-        "lightbulb-multiple-off-outline": "0xF12D0=>0xF2D0",
+        "lightbulb-multiple-off-outline": "0xF12D0=>0xE58F",
         "lightbulb-multiple-outline": "0xF1256=>0xF256",
         "lightbulb-off": "0xF0E4F=>0xEE4F",
         "lightbulb-off-outline": "0xF0E50=>0xEE50",
@@ -5533,11 +5533,11 @@
         "vuetify": "0xF0E6D=>0xEE6D",
         "walk": "0xF0583=>0xE583",
         "wall": "0xF07FE=>0xE7FE",
-        "wall-sconce": "0xF091C=>0xE91C",
+        "wall-sconce": "0xF091C=>0xE91E",
         "wall-sconce-flat": "0xF091D=>0xE91D",
         "wall-sconce-flat-variant": "0xF041C=>0xE41C",
         "wall-sconce-round": "0xF0748=>0xE748",
-        "wall-sconce-round-variant": "0xF091E=>0xE91E",
+        "wall-sconce-round-variant": "0xF091E=>0xE91C",
         "wallet": "0xF0584=>0xE584",
         "wallet-giftcard": "0xF0585=>0xE585",
         "wallet-membership": "0xF0586=>0xE586",
@@ -5579,7 +5579,7 @@
         "water-plus": "0xF150A=>0xF50A",
         "water-plus-outline": "0xF150B=>0xF50B",
         "water-polo": "0xF12A0=>0xF2A0",
-        "water-pump": "0xF058F=>0xE58F",
+        "water-pump": "0xF058F=>0xF2D0",
         "water-pump-off": "0xF0F93=>0xEF93",
         "water-remove": "0xF150C=>0xF50C",
         "water-remove-outline": "0xF150D=>0xF50D",
